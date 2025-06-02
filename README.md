@@ -1,5 +1,11 @@
 # BOT RINSO AUTO DAILY 
 
+📝 Feature 
+- Support VPS & Termux 
+- Proky Support
+- Multi account Support
+- Bot Auto Daily to get exp
+  
 *🖥️ Start installation*
 
 ````
