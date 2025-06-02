@@ -75,5 +75,13 @@ npm install ora --save
 - Click Profil
 [![IMG-20250602-113238.jpg](https://i.postimg.cc/L4gT4w1L/IMG-20250602-113238.jpg)](https://postimg.cc/rzcWQhgw)
 
-*You will see this copy from start: eyj ; 
+*You will see this copy from* start: eyj ; 
 [![IMG-20250602-113326.jpg](https://i.postimg.cc/mkmNxbyG/IMG-20250602-113326.jpg)](https://postimg.cc/FkJJ3X6P)
+
+After copying, open this link: https://jwt.io/ Paste the code you copied earlier
+
+*You will find an id like this*
+[![IMG-20250602-113419.jpg](https://i.postimg.cc/xTWNXJC4/IMG-20250602-113419.jpg)](https://postimg.cc/rKNwbp51)
+
+private key example in bot: privatkeyxxxxxxxx,222-171- id Zealy 
+
