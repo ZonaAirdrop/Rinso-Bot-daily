@@ -11,7 +11,7 @@ npm install
 
 ````
 nano accounts.txt
-```
+````
 ````
 `Privatekey.zealy id`
 
