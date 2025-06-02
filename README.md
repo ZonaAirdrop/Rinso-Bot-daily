@@ -68,5 +68,9 @@ npm install ora --save
 
 🗿 Tutorial Get ID Zealy 
 
-* open Zealy and be on profil
+*open Zealy and be on profil*
 [![IMG-20250602-113153-131.jpg](https://i.postimg.cc/g0MDrPsq/IMG-20250602-113153-131.jpg)](https://postimg.cc/f39Xgp6J)
+
+*Open devtools* see the picture below 
+- Click Profil
+[![IMG-20250602-113238.jpg](https://i.postimg.cc/L4gT4w1L/IMG-20250602-113238.jpg)](https://postimg.cc/rzcWQhgw)
