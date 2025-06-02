@@ -8,6 +8,7 @@ cd Rinso-Bot-daily
 npm install
 ````
 *🔖 Create Folder* `accounts.txt`
+
 ````
 nano accounts.txt
 ```
