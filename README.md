@@ -51,3 +51,17 @@ nano accounts.txt
 ````
 node index.js
 ````
+✅
+- For Termux If an Error Occurs in ethers
+
+`Install ethers`
+
+````
+npm install ethers --save
+````
+- if an error occurs in ora install
+`Install ora`
+
+````
+npm install ora --save
+````
