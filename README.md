@@ -74,3 +74,6 @@ npm install ora --save
 *Open devtools* see the picture below 
 - Click Profil
 [![IMG-20250602-113238.jpg](https://i.postimg.cc/L4gT4w1L/IMG-20250602-113238.jpg)](https://postimg.cc/rzcWQhgw)
+
+*You will see this copy from start: eyj ; 
+[![IMG-20250602-113326.jpg](https://i.postimg.cc/mkmNxbyG/IMG-20250602-113326.jpg)](https://postimg.cc/FkJJ3X6P)
