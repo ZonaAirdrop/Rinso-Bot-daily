@@ -85,3 +85,11 @@ After copying, open this link: https://jwt.io/ Paste the code you copied earlier
 
 private key example in bot: privatkeyxxxxxxxx,222-171- id Zealy 
 
+⚠️Notes
+
+ONLY use testnet wallets
+NEVER paste mainnet private keys
+This bot runs indefinitely (use Ctrl + C to stop)
+Testnet = Zero gas cost
+Randomized delays between operations for safety
+👉 Join Chanel https://t.me/ZonaAirdr0p
