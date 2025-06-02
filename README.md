@@ -65,3 +65,8 @@ npm install ethers --save
 ````
 npm install ora --save
 ````
+
+🗿 Tutorial Get ID Zealy 
+
+* open Zealy and be on profil
+[![IMG-20250602-113153-131.jpg](https://i.postimg.cc/g0MDrPsq/IMG-20250602-113153-131.jpg)](https://postimg.cc/f39Xgp6J)
