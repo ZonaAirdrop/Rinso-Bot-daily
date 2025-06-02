@@ -5,7 +5,23 @@
 - Proky Support
 - Multi account Support
 - Bot Auto Daily to get exp
-  
+
+- For VPS Create `screen`
+
+````
+screen -S rinso
+````
+- Let the bot run, then detach from the screen
+
+````
+Ctrl + A then press DCtrl + A then press D
+````
+- To return to the screen
+
+````
+screen -r rinso
+````
+
 *🖥️ Start installation*
 
 ````
