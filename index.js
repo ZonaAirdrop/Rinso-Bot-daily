@@ -16,7 +16,7 @@ function getTimestamp() {
 
 function displayBanner() {
   const width = process.stdout.columns || 80;
-  const banner = figlet.textSync('\n ENSO-zonaairdrop', { font: "ANSI Shadow", horizontalLayout: 'Speed' });
+  const banner = figlet.textSync('\n ENSO', { font: "ANSI Shadow", horizontalLayout: 'Speed' });
   banner.split('\n').forEach(line => {
     console.log(chalk.blue(line.padStart(line.length + Math.floor((width - line.length) / 2))));
   });
