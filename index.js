@@ -20,7 +20,7 @@ function displayBanner() {
   banner.split('\n').forEach(line => {
     console.log(chalk.blue(line.padStart(line.length + Math.floor((width - line.length) / 2))));
   });
-  console.log(chalk.green(' '.repeat((width - 28) / 2) + 'ENSO Otomatis bay zonaairdrop !!'));
+  console.log(chalk.green(' '.repeat((width - 28) / 2) + '!! ENSO Otomatis bay zonaairdrop !!'));
 }
 
 const rl = createInterface({
