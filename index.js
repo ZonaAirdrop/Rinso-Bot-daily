@@ -16,12 +16,11 @@ function getTimestamp() {
 
 function displayBanner() {
   const width = process.stdout.columns || 80;
-  const banner = figlet.textSync('\n RINSO BY CD', { font: "ANSI Shadow", horizontalLayout: 'Speed' });
+  const banner = figlet.textSync('\n ENSO-CDY', { font: "ANSI Shadow", horizontalLayout: 'Speed' });
   banner.split('\n').forEach(line => {
-    console.log(chalk.cyanBright(line.padStart(line.length + Math.floor((width - line.length) / 2))));
+    console.log(chalk.blue(line.padStart(line.length + Math.floor((width - line.length) / 2))));
   });
-  console.log(chalk.cyanBright(' '.repeat((width - 50) / 2) + 'Rinso-Bot-daily - Created By Zonaairdrop'));
-  console.log(chalk.yellowBright(' '.repeat((width - 30) / 2) + '✪ RINSO BOT DAILY  & DAPPS AI ✪\n'));
+  console.log(chalk.green(' '.repeat((width - 28) / 2) + 'ENSO AUTOMATION !!'));
 }
 
 const rl = createInterface({
